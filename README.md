@@ -3,15 +3,14 @@
 Simple command line calculator
 
 ## Getting Started
-Install the module with: `npm install calc`
-
-```javascript
-var calc = require('calc');
-calc.awesome(); // "awesome"
-```
+Install the module with: `npm install calc -g`
 
 ## Documentation
-_(Coming soon)_
+To run a calculation you need to pass 2 numbers to the `calc` command as arguments.
+
+###Example
+`calc 10 10`
+
 
 ## Examples
 _(Coming soon)_

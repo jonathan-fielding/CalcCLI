@@ -38,5 +38,6 @@
   "preferGlobal": "true",
   "bin": {
       "calc" : "lib/calc.js"
-  }
+  },
+  "man" :[ "./doc/calc.1" ]
 }
