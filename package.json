@@ -33,12 +33,15 @@
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-watch": "~0.4.0",
     "grunt": "~0.4.1",
-    "commander": "~2.0.0"
+    "commander": "~2.0.0",
+    "underscore": "~1.5.1"
   },
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-      "calc" : "lib/calc.js"
+    "calc": "lib/calc.js"
   },
-  "man" :[ "./doc/calc.1" ]
+  "man": [
+    "./doc/calc.1"
+  ]
 }
